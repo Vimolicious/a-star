@@ -1,0 +1,23 @@
+BACKGROUND
+
+The A* Path Finding Algorithm is a series
+of instructions which allow for the 
+traversal of ordered 'nodes'(which may 
+contain obstacles) the goal being to find 
+the quickest possible route.
+
+
+INSTRUCTIONS
+
+The GREEN node on the grid is the 
+starting point and it's RED counter part 
+is the ending point. You may move these 
+points anywhere on the grid you would 
+like, by simply pressing down on the 
+desired point and dragging it to where 
+you wish. Similarly you can create
+obstacles as well by pressing and dragging. 
+To start the path finding, press 'start'. 
+If you want to tweak something, press 
+'clear path'. Otherwise to start again, 
+press 'reset'.
